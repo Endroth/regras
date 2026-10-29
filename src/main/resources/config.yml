@@ -1,0 +1,4 @@
+# Cada item é uma página do livro. Dá pra usar cores com & (ex: &c = vermelho, &l = negrito).
+pages:
+  - "&l&6REGRAS DO SERVIDOR&r\n\n1. Respeite todos os jogadores.\n2. Sem hacks ou mods de vantagem.\n3. Sem spam ou flood no chat."
+  - "4. Sem griefing ou roubo.\n5. Não abuse de bugs.\n6. Obedeça a staff.\n\n&aBom jogo!"

@@ -1,0 +1,8 @@
+name: Regras
+version: 1.0
+main: com.regras.Regras
+api-version: '1.21'
+commands:
+  rules:
+    description: Abre o livro de regras
+    aliases: [regras]
